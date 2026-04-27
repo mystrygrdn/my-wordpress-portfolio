@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/WordPress-6.x-blue?logo=wordpress" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Elementor-Pro-pink?logo=elementor" alt="Elementor"/>
   <img src="https://img.shields.io/badge/Hosting-Pantheon-lightgrey?logo=pantheon" alt="Pantheon"/>
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma" alt="Figma"/>
   <img src="https://img.shields.io/badge/Style-Minimalist-black" alt="Minimalist"/>
 </p>
 
@@ -30,7 +29,7 @@ The goal of this project was to create a high-performance, responsive, and visua
 
 ## ✨ Features
 
-### 🎨 Design & UI/UX
+### 🎨 UI/UX
 - **Responsive Design:** Optimized for Desktop, Tablet, and Mobile devices.
 - **Custom Branding:** Features a minimalist logo and consistent color palette.
 - **Smooth Navigation:** Implemented "Smooth Scroll" anchor links for a better user experience.
@@ -51,7 +50,6 @@ The goal of this project was to create a high-performance, responsive, and visua
 | Page Builder | Elementor (Pro Features) |
 | Theme | Astra / Hello Elementor |
 | Hosting | Pantheon.io |
-| Design Tool | Figma |
 | Version Control | Git (GitHub) |
 
 ---
